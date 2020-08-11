@@ -1,4 +1,4 @@
-Perceptions of Masculinity from Queer and Straight Males 
+##Perceptions of Masculinity from Queer and Straight Males 
 by Jubilee Heutmaker
 
 I found this data set from FiveThirtyEight on Github. Ella Koeze and Anna Maria Barry-Jester used the dataset to write What Do Men Think It Means To Be A Man? The data was collected via  SurveyMonkey and contains responses from 1,615 men. The Github page where I downloaded the CSV showed that, “The modeled error estimate for this survey is plus or minus 2.5 percentage points. The percentages have been weighted for age, race, education, and geography using the Census Bureau’s American Community Survey to reflect the demographic composition of the United States age 18 and over.” As FiveThirtyEight already wrote an article using this data, I did not have to do much to get it in a workable format other than upload the CSV file into Google Sheets. After a great length of time spent on interrogating the data and looking for threads, I deleted the columns unrelated to my chosen topic to visually pair down the data. 
