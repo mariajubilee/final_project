@@ -38,7 +38,7 @@ Participants could answer any of the following responses:
 * Never, and not open to it 
 
 
-I chose a few of the above behaviors/activities to further analyze.The first pie chart is a breakdown of responses from both Queer and Straight men on how frequently they express physical affection to male friends like hugging or giving a shoulder rub. Among Queer men, 38% responded as “Often” while only 12% of Straight men responded as “Often.” While only 2-3% of Queer males responded with “Never, and not open to it,” 21% of Straight males responded “Never, and not open to it.”
+I chose a few of the above behaviors/activities to further analyze. The first pie chart is a breakdown of responses from both Queer and Straight men on how frequently they express physical affection to male friends like hugging or giving a shoulder rub. Among Queer men, 38% responded as “Often” while only 12% of Straight men responded as “Often.” While only 2-3% of Queer males responded with “Never, and not open to it,” 21% of Straight males responded “Never, and not open to it.”
 
 
 <iframe title="Physical Affection" aria-label="chart" id="datawrapper-chart-35A7J" src="https://datawrapper.dwcdn.net/35A7J/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="335"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
