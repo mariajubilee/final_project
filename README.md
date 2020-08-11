@@ -31,11 +31,11 @@ Another question in the survey asks participants to choose the frequency with wh
 11. Feel lonely or isolated
 
 Participants could answer any of the following responses:
-*Often 
-*Sometimes 
-*Rarely 
-*Never, but open to it 
-*Never, and not open to it 
+* Often 
+* Sometimes 
+* Rarely 
+* Never, but open to it 
+* Never, and not open to it 
 
 
 I chose a few of the above behaviors/activities to further analyze.The first pie chart is a breakdown of responses from both Queer and Straight men on how frequently they express physical affection to male friends like hugging or giving a shoulder rub. Among Queer men, 38% responded as “Often” while only 12% of Straight men responded as “Often.” While only 2-3% of Queer males responded with “Never, and not open to it,” 21% of Straight males responded “Never, and not open to it.”
