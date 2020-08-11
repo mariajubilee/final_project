@@ -18,24 +18,24 @@ The second question of the survey asked, “How important is it to you that othe
 Another question in the survey asks participants to choose the frequency with which they do the following activities. The survey questions looked like this:
 
  How often would you say you do each of the following? [RANDOMIZE, matrix] 
-Ask a friend for professional advice 
-Ask a friend for personal advice 
-Express physical affection to male friends, like hugging, rubbing shoulders 
-Cry 
-Get in a physical fight with another person 
-Have sexual relations with women, including anything from kissing to sex 
-Have sexual relations with men, including anything from kissing to sex 
-Watch sports of any kind 
-Work out 
-See a therapist 
-Feel lonely or isolated
+1. Ask a friend for professional advice 
+2. Ask a friend for personal advice 
+3. Express physical affection to male friends, like hugging, rubbing shoulders 
+4. Cry 
+5. Get in a physical fight with another person 
+6. Have sexual relations with women, including anything from kissing to sex 
+7. Have sexual relations with men, including anything from kissing to sex 
+8. Watch sports of any kind 
+9. Work out 
+10. See a therapist 
+11. Feel lonely or isolated
 
 Participants could answer any of the following responses:
-Often 
-Sometimes 
-Rarely 
-Never, but open to it 
-Never, and not open to it 
+*Often 
+*Sometimes 
+*Rarely 
+*Never, but open to it 
+*Never, and not open to it 
 
 
 I chose a few of the above behaviors/activities to further analyze.The first pie chart is a breakdown of responses from both Queer and Straight men on how frequently they express physical affection to male friends like hugging or giving a shoulder rub. Among Queer men, 38% responded as “Often” while only 12% of Straight men responded as “Often.” While only 2-3% of Queer males responded with “Never, and not open to it,” 21% of Straight males responded “Never, and not open to it.”
@@ -44,15 +44,20 @@ I chose a few of the above behaviors/activities to further analyze.The first pie
 <iframe title="Physical Affection" aria-label="chart" id="datawrapper-chart-35A7J" src="https://datawrapper.dwcdn.net/35A7J/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="335"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
+
 The second pie chart is a breakdown of responses from both Queer and Straight men on how frequently they cry. While 13% of Queer men reported that they cry often, only 3-4% of Straight males reported that they cry often. 
+
 
 <iframe title="Crying Frequency" aria-label="chart" id="datawrapper-chart-uiIAk" src="https://datawrapper.dwcdn.net/uiIAk/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="354"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
+
 The third pie chart is a breakdown of responses from both Queer and Straight men on how frequently they ask a friend for personal advice. While only 11% of Straight males reported that they asked a friend for personal advice often, nearly double (23%) of Queer males reported that they asked a friend for personal advice often.
+
 
 <iframe title="Asking for Personal Advice" aria-label="chart" id="datawrapper-chart-7mbT0" src="https://datawrapper.dwcdn.net/7mbT0/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="318"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
+
 
 While all of these charts and statistics are interesting, no conclusive statement can be made about the accuracy of these self reported data.
 
