@@ -10,7 +10,7 @@ Here is some text. And I want to create a [link](wikipedia.org)
 * another
 * yup
 
-![Picture of a cat](http://placekitten.com/400/300)
+![How Masculine Chart](https://www.datawrapper.de/_/JhjCj/)
 
 Here is some text.
 
