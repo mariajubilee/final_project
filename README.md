@@ -1,9 +1,9 @@
 # Perceptions of Masculinity from Queer and Straight Males 
 by Jubilee Heutmaker
 
-I found this data set from FiveThirtyEight on Github. Ella Koeze and Anna Maria Barry-Jester used the dataset to write ***What Do Men Think It Means To Be A Man?*** The data was collected via  SurveyMonkey and contains responses from 1,615 males. The Github page where I downloaded the CSV showed that, “The modeled error estimate for this survey is plus or minus 2.5 percentage points. The percentages have been weighted for age, race, education, and geography using the Census Bureau’s American Community Survey to reflect the demographic composition of the United States age 18 and over.” As FiveThirtyEight already wrote an article using this data, I did not have to do much to get it in a workable format other than upload the CSV file into Google Sheets. After a great length of time spent on interrogating the data and looking for threads, I deleted the columns unrelated to my chosen topic to visually pair down the data. 
+I found this data set from FiveThirtyEight on Github. Ella Koeze and Anna Maria Barry-Jester used the dataset to write ***What Do Men Think It Means To Be A Man?*** The data was collected via  SurveyMonkey in 2018 and contains responses from 1,615 males. The Github page where I downloaded the CSV showed that, “The modeled error estimate for this survey is plus or minus 2.5 percentage points. The percentages have been weighted for age, race, education, and geography using the Census Bureau’s American Community Survey to reflect the demographic composition of the United States age 18 and over.” As FiveThirtyEight already wrote an article using this data, I did not have to do much to get it in a workable format other than upload the CSV file into Google Sheets. After a great length of time spent on interrogating the data and looking for threads, I deleted the columns unrelated to my chosen topic to visually pair down the data. 
 
-The first question in the survey is: “In general, how masculine or ‘manly’ do you feel?” Participants could respond on a sliding scale from “Not at all masculine” to “Very Masculine.” I sorted by sexual orientation and created a pivot table with the responses to Question 1. After grouping together those that answered “Gay” and “Bisexual” into one category of “Queer,” I changed the count of responses into a percentage of the whole (within the distinct categories of either Queer or Straight). Looking at the first bar chart, 39% of Straight males reported that they felt “Very masculine,” while only 23% of Queer males reported they felt “Very masculine.”  Also, only 7% of Straight males reported feeling “Not very masculine”, while double the percentage (14%) of Queer males reported feeling “Not very masculine.”
+The first question in the survey is: “In general, how masculine or ‘manly’ do you feel?” Participants could respond on a sliding scale from “Not at all masculine” to “Very Masculine.” I sorted by sexual orientation and created a pivot table with the responses to Question 1. After grouping together those that answered “Gay” and “Bisexual” into one category of “Queer,” I changed the count of responses into a percentage of the whole (within the distinct categories of either Queer or Straight). Looking at the first bar chart, ***39%*** of Straight males reported that they felt “Very masculine,” while only ***23%*** of Queer males reported they felt “Very masculine.”  Also, only ***7%*** of Straight males reported feeling “Not very masculine”, while ***double*** the percentage (***14%***) of Queer males reported feeling “Not very masculine.”
 
 
 <iframe title="How masculine or “manly” do you feel?" aria-label="chart" id="datawrapper-chart-JhjCj" src="https://datawrapper.dwcdn.net/JhjCj/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
@@ -42,7 +42,7 @@ Participants could answer any of the following responses:
 * Never, and not open to it 
 
 
-I chose a few of the above behaviors/activities to further analyze. The first pie chart is a breakdown of responses from both Queer and Straight males on how frequently they express physical affection to male friends like hugging or giving a shoulder rub. Among Queer males, 38% responded as “Often” while only 12% of Straight males responded as “Often.” While only 2-3% of Queer males responded with “Never, and not open to it,” 21% of Straight males responded “Never, and not open to it.”
+I chose a few of the above behaviors/activities to further analyze. The first pie chart is a breakdown of responses from both Queer and Straight males on how frequently they express physical affection to male friends like hugging or giving a shoulder rub. Among Queer males, ***38%*** responded as “Often” while only ***12%*** of Straight males responded as “Often.” While only ***2-3%*** of Queer males responded with “Never, and not open to it,” ***21%*** of Straight males responded “Never, and not open to it.”
 
 
 
@@ -51,7 +51,7 @@ I chose a few of the above behaviors/activities to further analyze. The first pi
 
 
 
-The second pie chart is a breakdown of responses from both Queer and Straight males on how frequently they cry. While 13% of Queer males reported that they cry often, only 3-4% of Straight males reported that they cry often. 
+The second pie chart is a breakdown of responses from both Queer and Straight males on how frequently they cry. While ***13%** of Queer males reported that they cry often, only ***3-4%*** of Straight males reported that they cry often. 
 
 
 
@@ -60,7 +60,7 @@ The second pie chart is a breakdown of responses from both Queer and Straight ma
 
 
 
-The third pie chart is a breakdown of responses from both Queer and Straight males on how frequently they ask a friend for personal advice. While only 11% of Straight males reported that they asked a friend for personal advice often, nearly double (23%) of Queer males reported that they asked a friend for personal advice often.
+The third pie chart is a breakdown of responses from both Queer and Straight males on how frequently they ask a friend for personal advice. While only ***11%*** of Straight males reported that they asked a friend for personal advice often, nearly double (***23%***) of Queer males reported that they asked a friend for personal advice often.
 
 
 
