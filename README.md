@@ -69,4 +69,4 @@ The third pie chart is a breakdown of responses from both Queer and Straight mal
 
 
 
-While all of these charts and statistics are interesting, no conclusive statement can be made about the accuracy of these self reported data. Percentages are rounded up to the nearest integer.
+While all of these charts and statistics are interesting, no conclusive statement can be made about the accuracy of these self reported data.
